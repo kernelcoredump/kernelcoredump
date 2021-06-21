@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kernelcoredump
+- 👀 I’m an advocate for all things computer science, web technology, and DevOps
+- 🌱 I’m currently learning Kotlin, Go, Rust, and Web Assembly
+- 💞️ I’m looking to collaborate on emulation, virtualization, and retrocomputing
+- 📫 Twitter [@KernelBoot](https://twitter.com/KernelBoot), E-mail <kernelboot@acm.org>
